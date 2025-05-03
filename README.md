@@ -5,7 +5,7 @@ Ovaj projekt sadrži edukativne Zoom snimke s ciljem proširenja razine svijesti
 
 ## Sadržaj
 
-- Interaktivna predavanja i radionice Viber-u i Zoomu Besplatno
+- Interaktivna predavanja i radionice Viber-u i Zoomu Utorkom početak u 20:00 h Besplatno
 - Duhovni dijalozi i vodič za osobni razvoj
 - Teme:Tajne Vedskog znanja- svijest, unutarnji mir, kolektivna transformacija
 
