@@ -1,4 +1,4 @@
-
+Tajne Vedskog znanja
 # Zoom snimak – Edukativni Projekt
 
 Ovaj projekt sadrži edukativne Zoom snimke s ciljem proširenja razine svijesti kod gledatelja. Materijali su na srpsko-hrvatskom jeziku i namijenjeni su svima koji žele dublje razumijevanje sebe, svijeta i svjesnog življenja.
