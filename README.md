@@ -1,28 +1,28 @@
 
 # Zoom snimak – Edukativni Projekt
 
-Ovaj projekt sadrži edukativne Zoom snimke s ciljem proširenja razine svijesti kod gledatelja. Materijali su na hrvatskom jeziku i namijenjeni su svima koji žele dublje razumijevanje sebe, svijeta i svjesnog življenja.
+Ovaj projekt sadrži edukativne Zoom snimke s ciljem proširenja razine svijesti kod gledatelja. Materijali su na srpsko-hrvatskom jeziku i namijenjeni su svima koji žele dublje razumijevanje sebe, svijeta i svjesnog življenja.
 
 ## Sadržaj
 
-- Interaktivna predavanja i radionice
+- Interaktivna predavanja i radionice Viber-u i Zoomu Besplatno
 - Duhovni dijalozi i vodič za osobni razvoj
-- Teme: svijest, unutarnji mir, kolektivna transformacija
+- Teme:Tajne Vedskog znanja- svijest, unutarnji mir, kolektivna transformacija
 
 ## Kako pristupiti
 
 Snimke su dostupne putem:
 - **Facebook stranice** (dodajte svoj link ovde)
 - **Web stranice** (dodajte svoj link ovde)
-- **E-mail distribucije** (kontakt putem maila)
+- **E-mail distribucije** (ilijasgani@gmail.com)
 
 ## Jezik
 
-Sav sadržaj je na **hrvatskom jeziku**.
+Sav sadržaj je na **Srpsko-hrvatskom jeziku**.
 
 ## Autor
 
-Autor i voditelj: *(Ovdje možeš dodati svoje ime ili pseudonim)*
+Autor i voditelj: *(Gani)*
 
 ## Licenca
 
