@@ -26,7 +26,7 @@ Autor i voditelj: *(Gani)*
 
 ## Licenca
 
-Sadržaj je za osobnu edukaciju. Dijeljenje uz navođenje izvora.
+Sadržaj je za javno edukovanje
 
 ---
 
